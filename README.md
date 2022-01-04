@@ -1,7 +1,7 @@
 # Employee Attendance on Raspberry Pi using Facial Recognition
 
 ## Abstract
-With all the rapid changes in modern world, facial recognition been an integral part in almost all domains. From safety and security to industrialization, that concept grew largerly; in addition, utilizing that to identify objects and people in a quickly manner is a must in a fast growing economy. Many applications can take advantage of object detection. In our project, we are trying to record employee attendence using facial recognition using Raspberry Pi microcontroller.
+With all the rapid changes in modern world, facial recognition been an integral part in almost all domains. From safety and security to industrialization, that concept grew largerly; in addition, utilizing that to identify objects and people in a quickly manner is a must in a fast growing economy. Many applications can take advantage of object detection. In our project, we are trying to record employee attendence using facial recognition on Raspberry Pi microcontroller.
 
 ## Problem
 The current pandemic gave us new ways to leverage technology. Existing biometerics the likes of fingerprint requires contact with the device. This would raise a challenge in preventing the spread of the disease since surfaces may be contaminated with the virus. In our project, a contactless approach is what we look for; therefore, an object detection/facial recognition is what we aim to achieve.
