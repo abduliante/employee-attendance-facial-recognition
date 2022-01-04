@@ -13,8 +13,9 @@ Our data is going to be combined with transfer learning and pre-trained models. 
 * Raspberry Pi 4
 * Logitech USB webcam
 * Numpy
+* OpenCV
 * PyTorch (or Keras)
 * scikit-learn (Keras wrapper if decided on Keras)
 * Matplotlib
 * Seaborn 
-
+* Twilio - Communication API (SMS)
