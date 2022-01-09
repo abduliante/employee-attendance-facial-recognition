@@ -15,10 +15,10 @@ Since this is a baseline we will discard its results. Next we will try to implem
 
 In order to build a model able to detect emotional expressions, we gathered data from Kaggle and performed transfer learning by using mobileNet model. We ended up with accuracy score of 0.66 on the training, and 0.71 on the validation.
 
-* Accuracy Score:
+* Accuracy score:
 
 ![image](https://user-images.githubusercontent.com/89771282/148701087-c5d87f8e-14bf-43dd-96c1-460d56482679.png)
 
-* Loss Score:
+* Loss score:
 
 ![image](https://user-images.githubusercontent.com/89771282/148701072-0901b798-d0b1-4bbb-a8c5-842d4a9ead51.png)
