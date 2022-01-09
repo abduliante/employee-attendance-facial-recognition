@@ -1,5 +1,7 @@
 # Employee Attendance on Raspberry Pi using Facial Recognition
 
+This project is done as a part of Metis Kaplan course requirement in collaboration with [Hatim Alshehri](https://github.com/Hashehri) and [Mohammed Alghamedi](https://github.com/MohammedDev315)
+
 ## Abstract
 With all the rapid changes in modern world, facial recognition been an integral part in almost all domains. From safety and security to industrialization, that concept grew largerly; in addition, utilizing that to identify objects and people in a quickly manner is a must in a fast growing economy. Many applications can take advantage of object detection. In our project, we are trying to record employee attendence using facial recognition on Raspberry Pi microcontroller.
 
