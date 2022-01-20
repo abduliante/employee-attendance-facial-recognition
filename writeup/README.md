@@ -42,15 +42,11 @@ Along with slides, demo was provided during presentation.
 
 # References
 
-Haar cascades 
-https://www.pyimagesearch.com/2021/04/05/opencv-face-detection-with-haar-cascades/
+[Haar cascades](https://www.pyimagesearch.com/2021/04/05/opencv-face-detection-with-haar-cascades/)
 
-Face detection tips, suggestions, and best practices
-https://www.pyimagesearch.com/2021/04/26/face-detection-tips-suggestions-and-best-practices/
+[Face detection tips, suggestions, and best practices](https://www.pyimagesearch.com/2021/04/26/face-detection-tips-suggestions-and-best-practices/)
 
-Fast two-dimensional phase-unwrapping algorithm based on sorting by reliability following a noncontinuous path
-https://www.researchgate.net/publication/233811917_Fast_two-dimensional_phase-unwrapping_algorithm_based_on_sorting_by_reliability_following_a_noncontinuous_path
+[Fast two-dimensional phase-unwrapping algorithm based on sorting by reliability following a noncontinuous path](https://www.researchgate.net/publication/233811917_Fast_two-dimensional_phase-unwrapping_algorithm_based_on_sorting_by_reliability_following_a_noncontinuous_path)
 
-Siamese Neural Networks for One-shot Image Recognition
-https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
+[Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 
